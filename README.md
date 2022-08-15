@@ -1,0 +1,1 @@
+This GUI Program calculates the CGPA of students in Comuter Science department in a certain institution in Nigeria. 
